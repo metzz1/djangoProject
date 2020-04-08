@@ -1,11 +1,15 @@
 Django Project
 
-Cheat Sheet:
 Iniciar server:
 
-
 Entrar no script:  (tem que estar dentro da pasta djangoProject)
+
+
+
  source myvenv/bin/activate.  (Mac OS)
+ 
+ 
+ 
  myvenv\Scripts\activate (windows)
 
 Rodar server : 
